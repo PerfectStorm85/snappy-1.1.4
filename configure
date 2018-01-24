@@ -16624,7 +16624,6 @@ $as_echo "yes" >&6; }
 $as_echo "#define HAVE_GFLAGS 1" >>confdefs.h
 
 fi
-fi
 
 # See if we have __builtin_expect.
 # TODO: Use AC_CACHE.
